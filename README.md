@@ -1,1 +1,4 @@
-# QLSV_dotnet
+- Poject quản lý sinh viên.
+- sử dụng ngôn ngữ C#.
+- sử dụng WindowForm C# để thiết kế giao diện.
+- sử dụng Sql sever để lưu cơ sở dữ liệu.
